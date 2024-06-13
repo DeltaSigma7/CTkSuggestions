@@ -18,7 +18,7 @@ pip install CTkSuggestions
 ## Example
 ```python
 import customtkinter as ctk
-from CTkSuggestion import suggestions
+from CTkSuggestions import suggestions
 example_lst = [
     "apple","banana","cherry","date","elderberry","fig","grape",
     "honeydew","kiwi","lemon","mango","nectarine","orange",
