@@ -1,14 +1,6 @@
 # CTkSuggestions
  CTkSuggestions implements a suggestion dropdown for a customtkinter widget
 
-## Features
-
-- **QWERTZ and QWERTY Layouts**: Supports both QWERTZ and QWERTY keyboard layouts for different user preferences.
-- **Enhanced Focus**: Ensures improved focus with a dedicated entry for better text input.
-- **Touch-Friendly**: Designed specifically for touch displays, perfect for Raspberry Pi projects.
-- **Special keys**: Ensure easy entry of numbers and special characters.
-- **Open Source**: Free to use and modify.
-
 ## Installation
 ```bash
 pip install CTkSuggestions
